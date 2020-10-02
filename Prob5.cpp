@@ -33,7 +33,7 @@ int main()
     return 0;
 }
  */
-
+// Another Solution !!
 // TC : O(n)
 #include <iostream>
 using namespace std;
